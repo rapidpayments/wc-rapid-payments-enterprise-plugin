@@ -1,4 +1,4 @@
-## Callpay payment gateway plugin for WooCommerce
+## WC Rapid Payments Enterprise Plugin
 
 **Contributors:** The Rapid Group of Companies
 
